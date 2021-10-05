@@ -1,13 +1,8 @@
 # Heisenbug 2021. Jenkins Pipeline Testing workshop
 
-Heisenbug 2021 - Testing Jenkins pipelines
-
 * Format: Workshop, 2 hours
 * Presenters: Stanislav Ovchar ([@stchar](https://github.com/stchar)), Oleg Nenashev ([@oleg-nenashev](https://github.com/oleg-nenashev))
-
-## Slides
-
-* [Here](https://bit.ly/heisenbug2021-jenkins-pipeline)
+* [Slides](https://bit.ly/heisenbug2021-jenkins-pipeline)
 
 ## Prerequisites
 
